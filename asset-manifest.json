@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/multiSelect-task/static/css/main.80ea7209.css",
-    "main.js": "/multiSelect-task/static/js/main.56f91564.js",
+    "main.js": "/multiSelect-task/static/js/main.a90a9c87.js",
     "index.html": "/multiSelect-task/index.html",
     "main.80ea7209.css.map": "/multiSelect-task/static/css/main.80ea7209.css.map",
-    "main.56f91564.js.map": "/multiSelect-task/static/js/main.56f91564.js.map"
+    "main.a90a9c87.js.map": "/multiSelect-task/static/js/main.a90a9c87.js.map"
   },
   "entrypoints": [
     "static/css/main.80ea7209.css",
-    "static/js/main.56f91564.js"
+    "static/js/main.a90a9c87.js"
   ]
 }
